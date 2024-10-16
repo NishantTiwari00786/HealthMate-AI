@@ -14,7 +14,6 @@
 - [Current Work in Progress](#current-work-in-progress)
 - [Future Plans](#future-plans)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
