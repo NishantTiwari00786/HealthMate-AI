@@ -1,7 +1,7 @@
 
 # **HealthMate-AI**
 
-**HealthMate-AI** is an AI-powered virtual doctor that helps users diagnose common health conditions based on symptoms. It leverages machine learning models to analyze user input and provides possible diagnoses, over-the-counter medication recommendations, and additional advice such as when to seek medical help.
+**HealthMate-AI** is an AI-powered virtual doctor that helps users diagnose common health conditions based on symptoms. It leverages machine learning models to analyze user input and provides possible diagnoses, over-the-counter medication recommendations, and additional advice, such as when to seek medical help. This model is currently under construction, and its estimated completion date is December 2024. 
 
 ---
 
