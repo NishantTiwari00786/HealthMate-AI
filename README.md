@@ -129,15 +129,6 @@ Here are some additional features and enhancements being planned:
 
 ## **Contributing**
 
-Contributions to HealthMate-AI are welcome! Please follow these steps to contribute:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request with a clear description of the changes.
+This project is closed for contributions; once the model works as per my expectations, the codebase will be available. 
 
 ---
-
-## **License**
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
