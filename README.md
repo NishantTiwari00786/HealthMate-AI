@@ -8,6 +8,7 @@
 ## **Table of Contents**
 - [Project Overview](#project-overview)
 - [Installation](#installation)
+- [Dataset](#dataset)
 - [Usage](#usage)
 - [Model Information](#model-information)
 - [Folder Structure](#folder-structure)
@@ -46,6 +47,10 @@ To install and set up the project locally, follow these steps:
     python3 -m venv env
     source env/bin/activate  # On Windows: env\Scriptsctivate
     ```
+
+---
+## **Dataset**
+The dataset solely comes from Keggle: https://www.kaggle.com/datasets/uom190346a/disease-symptoms-and-patient-profile-dataset 
 
 ---
 
