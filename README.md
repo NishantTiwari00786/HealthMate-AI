@@ -7,9 +7,7 @@
 
 ## **Table of Contents**
 - [Project Overview](#project-overview)
-- [Installation](#installation)
 - [Dataset](#dataset)
-- [Usage](#usage)
 - [Model Information](#model-information)
 - [Folder Structure](#folder-structure)
 - [Current Work in Progress](#current-work-in-progress)
@@ -27,26 +25,6 @@ HealthMate-AI provides a virtual healthcare assistant that allows users to input
   
 ---
 
-## **Installation**
-
-To install and set up the project locally, follow these steps:
-
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/NishantTiwari00786/HealthMate-AI.git
-    cd HealthMate-AI
-    ```
-
-2. Install the required dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3. (Optional) Create a virtual environment and activate it:
-    ```bash
-    python3 -m venv env
-    source env/bin/activate  # On Windows: env\Scriptsctivate
-    ```
 
 ---
 ## **Dataset**
@@ -54,27 +32,7 @@ The dataset solely comes from Keggle: https://www.kaggle.com/datasets/uom190346a
 
 ---
 
-## **Usage**
 
-To run HealthMate-AI locally:
-
-1. **Run the Symptom Diagnosis Application**:
-    ```bash
-    python At_home_doctor.py
-    ```
-    This script allows you to input symptoms and provides a diagnosis based on predefined symptom-to-condition mapping.
-
-2. **Train the Model**:
-    You can retrain the Random Forest model with new data using the following:
-    ```bash
-    python Model_training.py
-    ```
-    This script handles the model training and saves the trained model for later use.
-
-3. **Handling Datasets**:
-    Use the `Handling_dataset.py` script to manage and preprocess datasets.
-
----
 
 ## **Model Information**
 
